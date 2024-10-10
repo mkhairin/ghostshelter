@@ -1,5 +1,6 @@
 # Ghostshelter - NetworkTool
-![Screenshot](images/screenshot.png)
+![Cover](images/cover.png)
+
 A network scanning and analysis tool that allows users to scan both domain names and IP addresses.
 
 ## Features
@@ -15,8 +16,8 @@ To install the package, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/networktool.git
-   cd networktool
+   git clone https://github.com/mkhairin/ghostshelter.git
+   cd ghostshelter
    ```
 
 2. Install the package:
