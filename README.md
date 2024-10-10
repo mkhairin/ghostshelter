@@ -1,5 +1,5 @@
 # Ghostshelter - NetworkTool
-![Screenshot](images/screenshot.png)
+![Cover](images/cover.png)
 A network scanning and analysis tool that allows users to scan both domain names and IP addresses.
 
 ## Features
