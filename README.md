@@ -16,7 +16,7 @@ To install the package, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/networktool.git
+   git clone https://github.com/mkhairin/ghostshelter.git
    cd networktool
    ```
 
